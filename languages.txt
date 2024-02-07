@@ -2,4 +2,6 @@ Telugu
 Hindi
 English
 Marathi
+Malyalam
+Telugu
 
