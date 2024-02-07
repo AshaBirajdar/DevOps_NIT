@@ -9,4 +9,8 @@ Names of states
 WA
 GA
 OH
-
+MA
+SC
+NC
+LA
+CA
