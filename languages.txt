@@ -5,3 +5,8 @@ Marathi
 Malyalam
 Telugu
 
+Names of states
+WA
+GA
+OH
+
